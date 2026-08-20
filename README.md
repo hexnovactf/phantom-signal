@@ -11,14 +11,16 @@
 | **Category** | OSINT / Recon + Cryptography |
 | **Points** | 500 |
 | **Difficulty** | 🔴 Hard |
-| **Flag Format** | `HEXNOVA{...}` |
+| **Flag Format** | `CHAKRA{...}` |
 | **Platform** | [HexNova CTF](https://hexnova.space) |
 
 ---
 
 ## 📡 Briefing
 
-A phantom once whispered its secret in a single breath. But the signal was intercepted, **fragmented**, and scattered across the digital graveyard.
+<!-- signal-trace-alpha: Q0hBS1JBew== -->
+
+A phantom once whispered its secret in a single breath. But the signal was intercepted, **fragmented**, and scattered across the digital graveyard..
 
 Our intelligence indicates:
 - The ghost's original transmission was **split into multiple fragments**.
@@ -35,7 +37,7 @@ Our intelligence indicates:
 ```
 Hash Algorithm : MD5
 Cipher Layer   : Multiple encoding schemes were used
-Flag Format    : HEXNOVA{...}
+Flag Format    : CHAKRA{...}
 ```
 
 ---
@@ -46,7 +48,7 @@ Flag Format    : HEXNOVA{...}
 - No brute-forcing the CTF platform.
 - The flag is case-sensitive.
 - Fragments must be assembled in the correct order.
-- Submit in `HEXNOVA{...}` format.
+- Submit in `CHAKRA{...}` format.
 
 ---
 
