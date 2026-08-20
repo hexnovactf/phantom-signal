@@ -21,9 +21,9 @@
 A phantom once whispered its secret in a single breath. But the signal was intercepted, **fragmented**, and scattered across the digital graveyard.
 
 Our intelligence indicates:
-- The ghost's original transmission was **split into 4 fragments**.
+- The ghost's original transmission was **split into multiple fragments**.
 - Each fragment was **encoded differently** before being hidden.
-- The fragments were concealed in **pull requests** from an unknown collaborator.
+- The fragments were concealed somewhere in this project's history and contributions.
 - You must **find all fragments**, **decode each one**, and **reassemble** them in the correct order.
 
 > ⚠️ *"The signal is never where you expect it. Look where others contribute, not where they build."*
@@ -33,43 +33,10 @@ Our intelligence indicates:
 ## 🔍 What You Know
 
 ```
-Input Hash     : 42697e23c7a0a4fefcaaf440e3209180
 Hash Algorithm : MD5
-Cipher Layer   : ROT-13 (applied before hashing)
-Fragments      : 4 pieces, each encoded differently
+Cipher Layer   : Multiple encoding schemes were used
+Flag Format    : HEXNOVA{...}
 ```
-
----
-
-## 💡 Hints
-
-<details>
-<summary>Hint 1 (Free)</summary>
-
-*"Forks are not just for eating. In the world of code, a fork remembers what the original tries to forget..."*
-
-</details>
-
-<details>
-<summary>Hint 2 (-75 points)</summary>
-
-*"Pull requests are public conversations. Read between the lines — literally."*
-
-</details>
-
-<details>
-<summary>Hint 3 (-100 points)</summary>
-
-The 4 fragments use these encodings (not in order): `Base64`, `Hexadecimal`, `Binary (ASCII)`, `ROT-13`
-
-</details>
-
-<details>
-<summary>Hint 4 (-150 points)</summary>
-
-Look for HTML comments `<!-- -->` — ghosts hide in the invisible.
-
-</details>
 
 ---
 

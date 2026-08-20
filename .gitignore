@@ -1,0 +1,6 @@
+# Ignore organizer and friend folders — NEVER push these
+organizer/
+friend/
+_friend_setup/
+solution/
+public/
