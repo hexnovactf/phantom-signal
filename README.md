@@ -18,7 +18,9 @@
 
 ## 📡 Briefing
 
-A phantom once whispered its secret in a single breath. But the signal was intercepted, **fragmented**, and scattered across the digital graveyard.
+<!-- signal-trace-alpha: SEVYTk9WQXs= -->
+
+A phantom once whispered its secret in a single breath. But the signal was intercepted, **fragmented**, and scattered across the digital graveyard..
 
 Our intelligence indicates:
 - The ghost's original transmission was **split into multiple fragments**.
